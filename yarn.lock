@@ -7,6 +7,26 @@
   resolved "https://registry.yarnpkg.com/@next/env/-/env-12.1.1-canary.7.tgz#505f4f2dd9d15871f283e30505d6f1981d0b1386"
   integrity sha512-hCuof/APgIs7J3cq2vuoL6U2riOa8ZqhpOHnS5KOpP+EVglTPrIN1M3NSae1kfUjBwtr6MhCx28NkcJSIyhaag==
 
+"@next/swc-darwin-arm64@canary":
+  version "12.1.1"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-arm64/-/swc-darwin-arm64-12.1.1.tgz#a5b4ea73ebf769f48dae97942b6b6fbeaf3f1dfc"
+  integrity sha512-bKKSNaTdnO3XPnfaR4NSpPcbs80fdbtOYC2lgtqLzA0bOMioupixMP5GrA/gfJHwh7GRH+A+sbgKQWsqSsYAqQ==
+
+"@next/swc-darwin-x64@canary":
+  version "12.1.1"
+  resolved "https://registry.yarnpkg.com/@next/swc-darwin-x64/-/swc-darwin-x64-12.1.1.tgz#064d50c08d9eec0fc1ff76e190d4fe43184aa8b7"
+  integrity sha512-2VOsA6WLDuDBA6935djohWGGeUIKeQhXwDwu1CKx1b8+6YMMIvFr/y2dpPWoct+5/IjFz84a2MnbABwpoNB9YA==
+
+"@next/swc-linux-x64-gnu@canary":
+  version "12.1.1"
+  resolved "https://registry.yarnpkg.com/@next/swc-linux-x64-gnu/-/swc-linux-x64-gnu-12.1.1.tgz#40f3c79b65b6cfc880e6131a25f7936716ded1b9"
+  integrity sha512-L8Cu8kH3Vn2dnRpvcvGGA1TlmDP2WXJ+qDwvjb/ikDXLdRdmFvJwHh45JUGiW2FHed3lGseOgNsuYiDvnT8Cdw==
+
+"@next/swc-win32-x64-msvc@canary":
+  version "12.1.1"
+  resolved "https://registry.yarnpkg.com/@next/swc-win32-x64-msvc/-/swc-win32-x64-msvc-12.1.1.tgz#21c12feb6acf75cac7c1ae4ca7f251aa1943f081"
+  integrity sha512-nH5osn/uK9wsjT8Jh1YxMtRrkN5hoCNLQjsEdvfUfb+loQXeYiBd3n/0DUJkf6Scjfv6/htfUTPP3AEa7AbBxQ==
+
 boolbase@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/boolbase/-/boolbase-1.0.0.tgz#68dff5fbe60c51eb37725ea9e3ed310dcc1e776e"
@@ -198,9 +218,9 @@ nanoid@^3.1.30, nanoid@^3.2.0:
   resolved "https://registry.yarnpkg.com/nanoid/-/nanoid-3.3.0.tgz#5906f776fd886c66c24f3653e0c46fcb1d4ad6b0"
   integrity sha512-JzxqqT5u/x+/KOFSd7JP15DOo9nOoHpx6DYatqIHUW2+flybkm+mdcraotSQR5WcnZr+qhGVh8Ted0KdfSMxlg==
 
-"next@https://github.com/huozhi/gh-npm-dist#d9fac74":
+"next@https://github.com/huozhi/gh-npm-dist#b11b611":
   version "12.1.1-canary.7"
-  resolved "https://github.com/huozhi/gh-npm-dist#d9fac742445a9c1197366e0ece9a10c942384de7"
+  resolved "https://github.com/huozhi/gh-npm-dist#b11b6116d3aa2c4a43d22978b0ec7bccb417aad5"
   dependencies:
     "@next/env" "12.1.1-canary.7"
     caniuse-lite "^1.0.30001283"
